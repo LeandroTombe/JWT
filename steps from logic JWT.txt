@@ -1,9 +1,0 @@
-From the /register route, we will:
-
-
-Get user input.
-Validate user input.
-Validate if the user already exists.
-Encrypt the user password.
-Create a user in our database.
-And finally, create a signed JWT token.
